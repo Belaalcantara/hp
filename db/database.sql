@@ -1,0 +1,18 @@
+ CREATE DATABASE hogwarts;
+
+ CREATE TABLE bruxos (
+ id SERIAL PRIMARY KEY,
+ nome VARCHAR(100) NOT NULL,
+ idade INTEGER NOT NULL,
+ casa VARCHAR(50) NOT NULL,
+ habilidade VARCHAR(100) NOT NULL,
+ sangue VARCHAR(50) NOT NULL
+ );
+
+ CREATE TABLE varinhas(
+ id SERIAL PRIMARY KEY,
+ material VARCHAR(100),
+ tamanho DECIMAL NOT NULL,
+ nucleo VARCHAR(100) NOT NULL,
+ data_fab DATE NOT NULL
+ );
