@@ -1,10 +1,13 @@
+Seja bem-vindo ao mundo de Harry Potter de uma maneira diferente. Aqui vamos apresentar um back-end deste mundo mágico tão famoso, de uma forma que você, PotterHAD, nunca viu, com um simples back-end desenvolvido em Node.js com Express e PostgreSQL, permitindo operações CRUD completas para bruxos e varinhas.
+____________________________________________________________________________________________________
+
 <div style="display: flex; justify-content: center; align-items: center; height: 90vh;">
     <img src="https://difundo.com/wp-content/uploads/2024/04/harry_potter.jpg" alt="Bruxos">
 </div>
 
  ____________________________________________________________________________________________________
 
-Seja bem-vindo ao mundo de Harry Potter de uma maneira diferente. Aqui vamos apresentar um back-end deste mundo mágico tão famoso, de uma forma que você, PotterHAD, nunca viu, com um simples back-end desenvolvido em Node.js com Express e PostgreSQL, permitindo operações CRUD completas para bruxos e varinhas.
+
 
 ##### FUNCIONALIDADES 🪄
 
