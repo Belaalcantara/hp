@@ -14,12 +14,19 @@ Criação, leitura, atualização e exclusão (CRUD) de varinhas.
 
 ##### ROTAS 🪄
 GET /bruxos: Retorna todos os bruxos.
+
 POST /bruxos: Cria um novo bruxo.
+
 PUT /bruxos/:id: Atualiza um bruxo existente.
+
 DELETE /bruxos/:id: Deleta um bruxo existente.
+
 GET /varinhas: Retorna todas as varinhas.
+
 POST /varinhas: Cria uma nova varinha.
+
 PUT /varinhas/:id: Atualiza uma varinha existente.
+
 DELETE /varinhas/:id: Deleta uma varinha existente.
  ____________________________________________________________________________________________________
 
